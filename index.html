@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ahmed Dahmash — Architectural Engineer · Portfolio</title>
+<meta name="description" content="Portfolio of Ahmed Abdulellah Dahmash, Architectural Engineer based in Sana'a, Yemen. Architectural design, 3D visualization and construction supervision across 27 residential, mixed-use, healthcare, cultural and infrastructure projects." />
+<meta name="author" content="Ahmed Abdulellah Mohammed Dahmash" />
+<meta property="og:title" content="Ahmed Dahmash — Architectural Engineer" />
+<meta property="og:description" content="Architectural design, 3D visualization and construction supervision. A selected portfolio of 27 projects." />
+<meta property="og:type" content="website" />
+<meta name="theme-color" content="#16140f" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2316140f'/%3E%3Ctext x='50' y='68' font-family='Georgia,serif' font-size='54' fill='%23f4f1ec' text-anchor='middle'%3EA%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+
+<!-- Progress / load bar -->
+<div id="loadbar" aria-hidden="true"></div>
+
+<!-- Navigation -->
+<header class="nav" id="nav">
+  <a href="#top" class="nav__brand" aria-label="Ahmed Dahmash — home">
+    <span class="nav__mono">AD</span>
+    <span class="nav__name">Ahmed Dahmash</span>
+  </a>
+  <nav class="nav__links">
+    <a href="#work">Work</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+    <a class="nav__cv" href="assets/cv.pdf" target="_blank" rel="noopener">CV ↗</a>
+  </nav>
+  <button class="nav__menu" id="navMenu" aria-label="Open menu"><span></span><span></span></button>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero__grid">
+      <div class="hero__intro">
+        <p class="eyebrow">Architectural Engineer · Sana'a, Yemen</p>
+        <h1 class="hero__title">
+          <span>Ahmed</span>
+          <span class="hero__title-em">Dahmash</span>
+        </h1>
+        <p class="hero__lead">
+          Architectural design, 3D visualization and full construction
+          supervision — from the first massing model to the final slab on site.
+        </p>
+        <div class="hero__cta">
+          <a href="#work" class="btn btn--solid">View the work</a>
+          <a href="assets/portfolio.pdf" target="_blank" rel="noopener" class="btn btn--ghost" id="pdfLink">Download portfolio (PDF)</a>
+        </div>
+      </div>
+      <div class="hero__stats">
+        <div class="stat"><span class="stat__n" data-count="4">4+</span><span class="stat__l">Years across design &amp; site</span></div>
+        <div class="stat"><span class="stat__n" data-count="28">28</span><span class="stat__l">Projects in this portfolio</span></div>
+        <div class="stat"><span class="stat__n" data-count="15">15+</span><span class="stat__l">Builds supervised on site</span></div>
+        <div class="stat"><span class="stat__n">BIM</span><span class="stat__l">Revit · AutoCAD · 3ds Max · Lumion</span></div>
+      </div>
+    </div>
+    <div class="hero__media" id="heroMedia" aria-hidden="true"></div>
+    <div class="hero__scroll">Selected works ↓</div>
+  </section>
+
+  <!-- WORK -->
+  <section class="work" id="work">
+    <div class="section-head">
+      <p class="eyebrow">01 — Selected Works</p>
+      <h2 class="section-title">A portfolio that spans <em>the drawing board and the scaffold.</em></h2>
+    </div>
+    <div class="filters" id="filters" role="tablist" aria-label="Filter projects by category"></div>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="section-head">
+      <p class="eyebrow">02 — Profile</p>
+      <h2 class="section-title">Both sides of the project.</h2>
+    </div>
+    <div class="about__grid">
+      <div class="about__bio">
+        <p class="about__lead">
+          Architectural engineer with more than four years of combined training and
+          professional experience, working both sides of the project: producing
+          drawings and 3D visualizations in Revit, AutoCAD, Lumion and 3ds Max, and
+          supervising construction on site from excavation to final finishing.
+        </p>
+        <p>
+          Experienced in quantity surveying, QA/QC, technical reporting, contract
+          preparation, and coordination with clients, contractors and government
+          bodies. I have delivered government-approved projects featured on national
+          television, graduated with distinction from Sana'a University, and am
+          completing the CAPM certification.
+        </p>
+        <div class="about__cta">
+          <a href="assets/cv.pdf" target="_blank" rel="noopener" class="btn btn--solid">Full CV (PDF)</a>
+          <a href="#contact" class="btn btn--ghost">Get in touch</a>
+        </div>
+      </div>
+      <div class="about__skills" id="skills"></div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact__inner">
+      <p class="eyebrow eyebrow--light">03 — Let's build something</p>
+      <h2 class="contact__title">Available for architectural design,<br/>visualization &amp; site supervision roles.</h2>
+      <div class="contact__links">
+        <a href="mailto:ahmeddhmsh@gmail.com" class="contact__item">
+          <span class="contact__k">Email</span><span class="contact__v">ahmeddhmsh@gmail.com</span>
+        </a>
+        <a href="tel:+966558497786" class="contact__item">
+          <span class="contact__k">Phone · Saudi Arabia</span><span class="contact__v">+966 55 849 7786</span>
+        </a>
+        <a href="tel:+967777879088" class="contact__item">
+          <span class="contact__k">Phone · Yemen</span><span class="contact__v">+967 777 879 088</span>
+        </a>
+        <a href="mailto:ahmeddhmsh@gmail.com" class="contact__item">
+          <span class="contact__k">Based in</span><span class="contact__v">Sana'a, Yemen</span>
+        </a>
+      </div>
+    </div>
+    <footer class="foot">
+      <span>© <span id="year"></span> Ahmed Abdulellah Mohammed Dahmash</span>
+      <span class="foot__mono">Architectural Engineer · Portfolio</span>
+    </footer>
+  </section>
+
+</main>
+
+<!-- PROJECT DETAIL OVERLAY -->
+<div class="detail" id="detail" aria-hidden="true" role="dialog" aria-modal="true">
+  <button class="detail__close" id="detailClose" aria-label="Close project">Close ✕</button>
+  <div class="detail__scroll" id="detailScroll"></div>
+</div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <div class="lightbox__tools">
+    <button id="lbRotL" aria-label="Rotate left" title="Rotate left (Shift+R)">⟲</button>
+    <button id="lbRotR" aria-label="Rotate right" title="Rotate right (R)">⟳</button>
+  </div>
+  <button class="lightbox__nav lightbox__prev" id="lbPrev" aria-label="Previous">‹</button>
+  <figure class="lightbox__fig">
+    <img id="lbImg" alt="" />
+    <figcaption id="lbCap"></figcaption>
+  </figure>
+  <button class="lightbox__nav lightbox__next" id="lbNext" aria-label="Next">›</button>
+  <button class="lightbox__close" id="lbClose" aria-label="Close">✕</button>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

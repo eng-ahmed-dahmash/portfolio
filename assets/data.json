@@ -1,0 +1,4633 @@
+{
+ "projects": [
+  {
+   "num": 1,
+   "id": "01",
+   "title": "Residential Villa, Riyadh",
+   "subtitle": "Full architectural design set",
+   "category": "Residential",
+   "location": "Riyadh, Saudi Arabia",
+   "year": "2025",
+   "role": "Architectural Design",
+   "type": "Design",
+   "summary": "Complete architectural design package for a private residential villa in Riyadh, delivered as a single multi-page working-drawing set.",
+   "summaryFull": "Complete architectural design package for a private residential villa in Riyadh, delivered as a single multi-page working-drawing set. The set covers furnished floor plans with full room layouts, parking and circulation, and is oriented to a north arrow with title block and project notes. Authored by Ahmed Dahmash as the responsible architect.",
+   "hero": "assets/projects/01/001.jpg",
+   "heroThumb": "assets/projects/01/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/01/001.jpg",
+     "sm": "assets/projects/01/001-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 1",
+     "w": 1500,
+     "h": 1059
+    },
+    {
+     "lg": "assets/projects/01/002.jpg",
+     "sm": "assets/projects/01/002-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 2",
+     "w": 1500,
+     "h": 1059
+    },
+    {
+     "lg": "assets/projects/01/003.jpg",
+     "sm": "assets/projects/01/003-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 3",
+     "w": 1500,
+     "h": 1059
+    },
+    {
+     "lg": "assets/projects/01/004.jpg",
+     "sm": "assets/projects/01/004-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/01/005.jpg",
+     "sm": "assets/projects/01/005-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/01/006.jpg",
+     "sm": "assets/projects/01/006-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 6",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/01/007.jpg",
+     "sm": "assets/projects/01/007-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 7",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/01/008.jpg",
+     "sm": "assets/projects/01/008-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 8",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/01/009.jpg",
+     "sm": "assets/projects/01/009-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 9",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/01/010.jpg",
+     "sm": "assets/projects/01/010-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 10",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/01/011.jpg",
+     "sm": "assets/projects/01/011-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa design set (plans, furnished layouts) — sheet 11",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 11
+  },
+  {
+   "num": 2,
+   "id": "02",
+   "title": "Bin Rasheed Residential Villa",
+   "subtitle": "Riyadh",
+   "category": "Residential",
+   "location": "Riyadh, Saudi Arabia",
+   "year": "2025",
+   "role": "Architectural Design",
+   "type": "Design",
+   "summary": "Architectural design for a private residential villa in Riyadh for client Bin Rasheed Mohammed.",
+   "summaryFull": "Architectural design for a private residential villa in Riyadh for client Bin Rasheed Mohammed. The drawing set develops the villa footprint with internal room layouts, service zones and a landscaped plot oriented to a north reference. Ahmed produced the complete design package as a seven-page set.",
+   "hero": "assets/projects/02/001.jpg",
+   "heroThumb": "assets/projects/02/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/02/001.jpg",
+     "sm": "assets/projects/02/001-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/02/002.jpg",
+     "sm": "assets/projects/02/002-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/02/003.jpg",
+     "sm": "assets/projects/02/003-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/02/004.jpg",
+     "sm": "assets/projects/02/004-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/02/005.jpg",
+     "sm": "assets/projects/02/005-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/02/006.jpg",
+     "sm": "assets/projects/02/006-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 6",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/02/007.jpg",
+     "sm": "assets/projects/02/007-t.jpg",
+     "kind": "plan",
+     "caption": "Villa design set — sheet 7",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 7
+  },
+  {
+   "num": 3,
+   "id": "03",
+   "title": "Al-Malaki Furniture Showroom",
+   "subtitle": "Retail interior design, Sana'a",
+   "category": "Interior",
+   "location": "Sana'a, Yemen",
+   "year": "2026",
+   "role": "Interior Design & 3D Visualization",
+   "type": "Design & Build",
+   "summary": "Interior design and fit-out for the Al-Malaki furniture and textile showroom in Sana'a.",
+   "summaryFull": "Interior design and fit-out for the Al-Malaki furniture and textile showroom in Sana'a. The scheme lines the long retail hall with full-height black metal display shelving for rolled fabrics and textiles, warm wood-slat ceiling features, recessed and track lighting, and curved lounge seating to guide customers through the space. The project spans concept SketchUp massing, photoreal renders and a walkthrough video, through to executed on-site photography and a full set of reflected-ceiling and electrical execution drawings.",
+   "hero": "assets/projects/03/001.jpg",
+   "heroThumb": "assets/projects/03/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/03/001.jpg",
+     "sm": "assets/projects/03/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/002.jpg",
+     "sm": "assets/projects/03/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/003.jpg",
+     "sm": "assets/projects/03/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 711
+    },
+    {
+     "lg": "assets/projects/03/004.jpg",
+     "sm": "assets/projects/03/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 711
+    },
+    {
+     "lg": "assets/projects/03/005.jpg",
+     "sm": "assets/projects/03/005-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 711
+    },
+    {
+     "lg": "assets/projects/03/006.jpg",
+     "sm": "assets/projects/03/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1427
+    },
+    {
+     "lg": "assets/projects/03/007.jpg",
+     "sm": "assets/projects/03/007-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    },
+    {
+     "lg": "assets/projects/03/008.jpg",
+     "sm": "assets/projects/03/008-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    },
+    {
+     "lg": "assets/projects/03/009.jpg",
+     "sm": "assets/projects/03/009-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    },
+    {
+     "lg": "assets/projects/03/010.jpg",
+     "sm": "assets/projects/03/010-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    },
+    {
+     "lg": "assets/projects/03/011.jpg",
+     "sm": "assets/projects/03/011-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 747
+    },
+    {
+     "lg": "assets/projects/03/012.jpg",
+     "sm": "assets/projects/03/012-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 720
+    },
+    {
+     "lg": "assets/projects/03/013.jpg",
+     "sm": "assets/projects/03/013-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 897
+    },
+    {
+     "lg": "assets/projects/03/014.jpg",
+     "sm": "assets/projects/03/014-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 500
+    },
+    {
+     "lg": "assets/projects/03/015.jpg",
+     "sm": "assets/projects/03/015-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/016.jpg",
+     "sm": "assets/projects/03/016-t.jpg",
+     "kind": "img",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "lg": "assets/projects/03/017.jpg",
+     "sm": "assets/projects/03/017-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 695
+    },
+    {
+     "lg": "assets/projects/03/018.jpg",
+     "sm": "assets/projects/03/018-t.jpg",
+     "kind": "img",
+     "w": 844,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/03/019.jpg",
+     "sm": "assets/projects/03/019-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/020.jpg",
+     "sm": "assets/projects/03/020-t.jpg",
+     "kind": "img",
+     "w": 1057,
+     "h": 1203
+    },
+    {
+     "lg": "assets/projects/03/021.jpg",
+     "sm": "assets/projects/03/021-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/022.jpg",
+     "sm": "assets/projects/03/022-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/023.jpg",
+     "sm": "assets/projects/03/023-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/03/024.jpg",
+     "sm": "assets/projects/03/024-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 511
+    },
+    {
+     "lg": "assets/projects/03/025.jpg",
+     "sm": "assets/projects/03/025-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 609
+    },
+    {
+     "lg": "assets/projects/03/026.jpg",
+     "sm": "assets/projects/03/026-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 590
+    },
+    {
+     "lg": "assets/projects/03/027.jpg",
+     "sm": "assets/projects/03/027-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 979
+    },
+    {
+     "lg": "assets/projects/03/028.jpg",
+     "sm": "assets/projects/03/028-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 812
+    },
+    {
+     "lg": "assets/projects/03/029.jpg",
+     "sm": "assets/projects/03/029-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1125
+    },
+    {
+     "lg": "assets/projects/03/030.jpg",
+     "sm": "assets/projects/03/030-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 894
+    },
+    {
+     "lg": "assets/projects/03/031.jpg",
+     "sm": "assets/projects/03/031-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1107
+    },
+    {
+     "lg": "assets/projects/03/032.jpg",
+     "sm": "assets/projects/03/032-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawing set — sheet 1",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/03/033.jpg",
+     "sm": "assets/projects/03/033-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawing set — sheet 2",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/03/034.jpg",
+     "sm": "assets/projects/03/034-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawing set — sheet 3",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/03/035.jpg",
+     "sm": "assets/projects/03/035-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawing set — sheet 4",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/03/036.jpg",
+     "sm": "assets/projects/03/036-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawing set — sheet 5",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/03/037.jpg",
+     "sm": "assets/projects/03/037-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawing set — sheet 6",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/03/038.jpg",
+     "sm": "assets/projects/03/038-t.jpg",
+     "kind": "plan",
+     "caption": "Ceiling plan 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/03/039.jpg",
+     "sm": "assets/projects/03/039-t.jpg",
+     "kind": "plan",
+     "caption": "Ceiling plan 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/03/040.jpg",
+     "sm": "assets/projects/03/040-t.jpg",
+     "kind": "plan",
+     "caption": "Ceiling plan 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/03/041.jpg",
+     "sm": "assets/projects/03/041-t.jpg",
+     "kind": "plan",
+     "caption": "Ceiling plan 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/03/042.jpg",
+     "sm": "assets/projects/03/042-t.jpg",
+     "kind": "plan",
+     "caption": "Ceiling electrical plan",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 42,
+   "hasVideo": true
+  },
+  {
+   "num": 4,
+   "id": "04",
+   "title": "Ibrahim Villa Ceiling Design",
+   "subtitle": "Three gypsum & lighting ceiling concepts",
+   "category": "Interior",
+   "location": "Sana'a, Yemen",
+   "year": "2026",
+   "role": "Interior Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Decorative false-ceiling design package for a private villa, developed as three alternative models.",
+   "summaryFull": "Decorative false-ceiling design package for a private villa, developed as three alternative models. Each scheme combines classical recessed gypsum panels, cove and linear LED lighting, and statement chandeliers to articulate living and reception spaces. Delivered as rendered 3D visualizations bound into per-model drawing sets for client review and selection.",
+   "hero": "assets/projects/04/001.jpg",
+   "heroThumb": "assets/projects/04/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/04/001.jpg",
+     "sm": "assets/projects/04/001-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 1000
+    },
+    {
+     "lg": "assets/projects/04/002.jpg",
+     "sm": "assets/projects/04/002-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 1000
+    },
+    {
+     "lg": "assets/projects/04/003.jpg",
+     "sm": "assets/projects/04/003-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 1000
+    },
+    {
+     "lg": "assets/projects/04/004.jpg",
+     "sm": "assets/projects/04/004-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/005.jpg",
+     "sm": "assets/projects/04/005-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/006.jpg",
+     "sm": "assets/projects/04/006-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/007.jpg",
+     "sm": "assets/projects/04/007-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/008.jpg",
+     "sm": "assets/projects/04/008-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 1308
+    },
+    {
+     "lg": "assets/projects/04/009.jpg",
+     "sm": "assets/projects/04/009-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/010.jpg",
+     "sm": "assets/projects/04/010-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/011.jpg",
+     "sm": "assets/projects/04/011-t.jpg",
+     "kind": "plan",
+     "w": 844,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/04/012.jpg",
+     "sm": "assets/projects/04/012-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/013.jpg",
+     "sm": "assets/projects/04/013-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/04/014.jpg",
+     "sm": "assets/projects/04/014-t.jpg",
+     "kind": "plan",
+     "w": 1500,
+     "h": 844
+    }
+   ],
+   "mediaCount": 14
+  },
+  {
+   "num": 5,
+   "id": "05",
+   "title": "Ibn Sina Hospital Offices Interior",
+   "subtitle": "Administrative offices & reception decor",
+   "category": "Interior",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Interior Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Interior fit-out design for the administrative and management offices of Ibn Sina Hospital.",
+   "summaryFull": "Interior fit-out design for the administrative and management offices of Ibn Sina Hospital. The scheme pairs warm neutral palettes with fluted wood feature walls, marble accents, concealed LED lighting and bespoke joinery for workstations and storage shelving. A lounge/reception zone with soft seating complements glazed-partitioned working offices.",
+   "hero": "assets/projects/05/001.jpg",
+   "heroThumb": "assets/projects/05/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/05/001.jpg",
+     "sm": "assets/projects/05/001-t.jpg",
+     "kind": "img",
+     "w": 1000,
+     "h": 857
+    },
+    {
+     "lg": "assets/projects/05/002.jpg",
+     "sm": "assets/projects/05/002-t.jpg",
+     "kind": "img",
+     "w": 736,
+     "h": 736
+    },
+    {
+     "lg": "assets/projects/05/003.jpg",
+     "sm": "assets/projects/05/003-t.jpg",
+     "kind": "img",
+     "w": 1000,
+     "h": 857
+    },
+    {
+     "lg": "assets/projects/05/004.jpg",
+     "sm": "assets/projects/05/004-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 607
+    },
+    {
+     "lg": "assets/projects/05/005.jpg",
+     "sm": "assets/projects/05/005-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 607
+    }
+   ],
+   "mediaCount": 5
+  },
+  {
+   "num": 6,
+   "id": "06",
+   "title": "Al-Sarh Al-Dhahabi Office Design",
+   "subtitle": "Golden Tower company office & feature wall",
+   "category": "Interior",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Interior Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Interior design for the offices of Al-Sarh Al-Dhahabi (Golden Tower) company, centered on a wood-paneled meeting room with brass-trim feature wall, built-in shelving and a polished marble floor.",
+   "summaryFull": "Interior design for the offices of Al-Sarh Al-Dhahabi (Golden Tower) company, centered on a wood-paneled meeting room with brass-trim feature wall, built-in shelving and a polished marble floor. The package develops the executive meeting space alongside a sculpted, illuminated wall feature for a smaller office, supported by executable shop drawings and plan layouts.",
+   "hero": "assets/projects/06/001.jpg",
+   "heroThumb": "assets/projects/06/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/06/001.jpg",
+     "sm": "assets/projects/06/001-t.jpg",
+     "kind": "plan",
+     "caption": "Small Office Wall Feature — Execution Drawing",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/06/002.jpg",
+     "sm": "assets/projects/06/002-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/003.jpg",
+     "sm": "assets/projects/06/003-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/004.jpg",
+     "sm": "assets/projects/06/004-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/005.jpg",
+     "sm": "assets/projects/06/005-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/006.jpg",
+     "sm": "assets/projects/06/006-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/007.jpg",
+     "sm": "assets/projects/06/007-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 6",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/008.jpg",
+     "sm": "assets/projects/06/008-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 7",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/009.jpg",
+     "sm": "assets/projects/06/009-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 8",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/010.jpg",
+     "sm": "assets/projects/06/010-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 9",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/011.jpg",
+     "sm": "assets/projects/06/011-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 10",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/06/012.jpg",
+     "sm": "assets/projects/06/012-t.jpg",
+     "kind": "plan",
+     "caption": "المخطط التنفيذي لجداريات مكاتب مواسسة ألصرح الذهبي — sheet 11",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 12
+  },
+  {
+   "num": 7,
+   "id": "07",
+   "title": "Villa Facade Design",
+   "subtitle": "Three-storey stone villa elevation",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Facade Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Exterior facade design and visualization for a three-storey private villa, presented in day and dusk renders.",
+   "summaryFull": "Exterior facade design and visualization for a three-storey private villa, presented in day and dusk renders. The composition combines a curved central bay, light stone cladding, tall vertical glazing and a defined cornice line, set behind a landscaped boundary wall and palm-lined forecourt.",
+   "hero": "assets/projects/07/001.jpg",
+   "heroThumb": "assets/projects/07/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/07/001.jpg",
+     "sm": "assets/projects/07/001-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    },
+    {
+     "lg": "assets/projects/07/002.jpg",
+     "sm": "assets/projects/07/002-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    }
+   ],
+   "mediaCount": 2
+  },
+  {
+   "num": 8,
+   "id": "08",
+   "title": "Jibran Al-Makhrafi Residential Villa",
+   "subtitle": "Design & build, single-frontage villa, Sana'a",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design, 3D Visualization & Construction Supervision",
+   "type": "Design & Build",
+   "summary": "Full design-and-build package for a multi-storey residential villa (Abu Share' / Jibran Al-Makhrafi) in Sana'a.",
+   "summaryFull": "Full design-and-build package for a multi-storey residential villa (Abu Share' / Jibran Al-Makhrafi) in Sana'a. The deliverables span exterior 3D visualization, a complete engineering drawing set, interior decor execution drawings and detailed facade construction documents. Classical stone elevations with arched glazing and balconies are paired with a refined interior featuring stone-clad circulation, a feature staircase and elevator lobby.",
+   "hero": "assets/projects/08/001.jpg",
+   "heroThumb": "assets/projects/08/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/08/001.jpg",
+     "sm": "assets/projects/08/001-t.jpg",
+     "kind": "plan",
+     "caption": "Exterior & Interior Render Gallery",
+     "w": 1500,
+     "h": 845
+    },
+    {
+     "lg": "assets/projects/08/002.jpg",
+     "sm": "assets/projects/08/002-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 1",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/08/003.jpg",
+     "sm": "assets/projects/08/003-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 2",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/004.jpg",
+     "sm": "assets/projects/08/004-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 3",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/005.jpg",
+     "sm": "assets/projects/08/005-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 4",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/006.jpg",
+     "sm": "assets/projects/08/006-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 5",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/007.jpg",
+     "sm": "assets/projects/08/007-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 6",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/008.jpg",
+     "sm": "assets/projects/08/008-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 7",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/009.jpg",
+     "sm": "assets/projects/08/009-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 8",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/010.jpg",
+     "sm": "assets/projects/08/010-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 9",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/08/011.jpg",
+     "sm": "assets/projects/08/011-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 10",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/08/012.jpg",
+     "sm": "assets/projects/08/012-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 11",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/013.jpg",
+     "sm": "assets/projects/08/013-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 12",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/014.jpg",
+     "sm": "assets/projects/08/014-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 13",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/08/015.jpg",
+     "sm": "assets/projects/08/015-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 14",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/016.jpg",
+     "sm": "assets/projects/08/016-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 15",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/017.jpg",
+     "sm": "assets/projects/08/017-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 16",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/018.jpg",
+     "sm": "assets/projects/08/018-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/019.jpg",
+     "sm": "assets/projects/08/019-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/020.jpg",
+     "sm": "assets/projects/08/020-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/021.jpg",
+     "sm": "assets/projects/08/021-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/022.jpg",
+     "sm": "assets/projects/08/022-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/023.jpg",
+     "sm": "assets/projects/08/023-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 6",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/024.jpg",
+     "sm": "assets/projects/08/024-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 7",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/025.jpg",
+     "sm": "assets/projects/08/025-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 8",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/026.jpg",
+     "sm": "assets/projects/08/026-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 9",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/027.jpg",
+     "sm": "assets/projects/08/027-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 10",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/028.jpg",
+     "sm": "assets/projects/08/028-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 11",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/029.jpg",
+     "sm": "assets/projects/08/029-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 12",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/030.jpg",
+     "sm": "assets/projects/08/030-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 13",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/031.jpg",
+     "sm": "assets/projects/08/031-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 14",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/032.jpg",
+     "sm": "assets/projects/08/032-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 15",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/033.jpg",
+     "sm": "assets/projects/08/033-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings — sheet 16",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/034.jpg",
+     "sm": "assets/projects/08/034-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 1",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/035.jpg",
+     "sm": "assets/projects/08/035-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 2",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/08/036.jpg",
+     "sm": "assets/projects/08/036-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 3",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/037.jpg",
+     "sm": "assets/projects/08/037-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 4",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/038.jpg",
+     "sm": "assets/projects/08/038-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 5",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/039.jpg",
+     "sm": "assets/projects/08/039-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 6",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/040.jpg",
+     "sm": "assets/projects/08/040-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 7",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/041.jpg",
+     "sm": "assets/projects/08/041-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 8",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/042.jpg",
+     "sm": "assets/projects/08/042-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 9",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/043.jpg",
+     "sm": "assets/projects/08/043-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 10",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/044.jpg",
+     "sm": "assets/projects/08/044-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 11",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/045.jpg",
+     "sm": "assets/projects/08/045-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 12",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/08/046.jpg",
+     "sm": "assets/projects/08/046-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/047.jpg",
+     "sm": "assets/projects/08/047-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/048.jpg",
+     "sm": "assets/projects/08/048-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/049.jpg",
+     "sm": "assets/projects/08/049-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/050.jpg",
+     "sm": "assets/projects/08/050-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/051.jpg",
+     "sm": "assets/projects/08/051-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 6",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/052.jpg",
+     "sm": "assets/projects/08/052-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 7",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/053.jpg",
+     "sm": "assets/projects/08/053-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 8",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/054.jpg",
+     "sm": "assets/projects/08/054-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 9",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/055.jpg",
+     "sm": "assets/projects/08/055-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 10",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/056.jpg",
+     "sm": "assets/projects/08/056-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 11",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/057.jpg",
+     "sm": "assets/projects/08/057-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 12",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/058.jpg",
+     "sm": "assets/projects/08/058-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 13",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/059.jpg",
+     "sm": "assets/projects/08/059-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 14",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/060.jpg",
+     "sm": "assets/projects/08/060-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 15",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/08/061.jpg",
+     "sm": "assets/projects/08/061-t.jpg",
+     "kind": "plan",
+     "caption": "Interior Decor Execution Drawings (Set 2) — sheet 16",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 61
+  },
+  {
+   "num": 9,
+   "id": "09",
+   "title": "Twin Residential Villas",
+   "subtitle": "Design & build, two corner villas, Sana'a",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design, 3D Visualization & Construction Supervision",
+   "type": "Design & Build",
+   "summary": "Design-and-build project for two adjoining residential villas on a double-frontage corner plot (Abu Share'ain / Jibran Al-Makhrafi) in Sana'a.",
+   "summaryFull": "Design-and-build project for two adjoining residential villas on a double-frontage corner plot (Abu Share'ain / Jibran Al-Makhrafi) in Sana'a. The matching three-storey villas share a unified classical stone language with arched glazing, columned balconies and illuminated dusk facades. Documentation covers exterior render galleries, a full engineering drawing set, facade execution drawings and detailed elevation studies for both units.",
+   "hero": "assets/projects/09/001.jpg",
+   "heroThumb": "assets/projects/09/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/09/001.jpg",
+     "sm": "assets/projects/09/001-t.jpg",
+     "kind": "plan",
+     "caption": "Exterior Render Gallery — Dusk",
+     "w": 1500,
+     "h": 828
+    },
+    {
+     "lg": "assets/projects/09/002.jpg",
+     "sm": "assets/projects/09/002-t.jpg",
+     "kind": "plan",
+     "caption": "Exterior Render Gallery — Day",
+     "w": 1500,
+     "h": 845
+    },
+    {
+     "lg": "assets/projects/09/003.jpg",
+     "sm": "assets/projects/09/003-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 1",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/09/004.jpg",
+     "sm": "assets/projects/09/004-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 2",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/005.jpg",
+     "sm": "assets/projects/09/005-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 3",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/006.jpg",
+     "sm": "assets/projects/09/006-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 4",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/007.jpg",
+     "sm": "assets/projects/09/007-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 5",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/008.jpg",
+     "sm": "assets/projects/09/008-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 6",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/009.jpg",
+     "sm": "assets/projects/09/009-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 7",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/010.jpg",
+     "sm": "assets/projects/09/010-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 8",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/011.jpg",
+     "sm": "assets/projects/09/011-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 9",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/09/012.jpg",
+     "sm": "assets/projects/09/012-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 10",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/09/013.jpg",
+     "sm": "assets/projects/09/013-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 11",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/014.jpg",
+     "sm": "assets/projects/09/014-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 12",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/015.jpg",
+     "sm": "assets/projects/09/015-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 13",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/09/016.jpg",
+     "sm": "assets/projects/09/016-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 14",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/09/017.jpg",
+     "sm": "assets/projects/09/017-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 15",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/018.jpg",
+     "sm": "assets/projects/09/018-t.jpg",
+     "kind": "plan",
+     "caption": "Architectural & Engineering Drawings — sheet 16",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/019.jpg",
+     "sm": "assets/projects/09/019-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 1",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/020.jpg",
+     "sm": "assets/projects/09/020-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 2",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/09/021.jpg",
+     "sm": "assets/projects/09/021-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 3",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/022.jpg",
+     "sm": "assets/projects/09/022-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 4",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/023.jpg",
+     "sm": "assets/projects/09/023-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 5",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/024.jpg",
+     "sm": "assets/projects/09/024-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 6",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/025.jpg",
+     "sm": "assets/projects/09/025-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 7",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/026.jpg",
+     "sm": "assets/projects/09/026-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 8",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/027.jpg",
+     "sm": "assets/projects/09/027-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 9",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/028.jpg",
+     "sm": "assets/projects/09/028-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 10",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/029.jpg",
+     "sm": "assets/projects/09/029-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 11",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/030.jpg",
+     "sm": "assets/projects/09/030-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Execution Drawings — sheet 12",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/031.jpg",
+     "sm": "assets/projects/09/031-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Detailing Studies — sheet 1",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/09/032.jpg",
+     "sm": "assets/projects/09/032-t.jpg",
+     "kind": "plan",
+     "caption": "Facade Detailing Studies — sheet 2",
+     "w": 1061,
+     "h": 1500
+    }
+   ],
+   "mediaCount": 32
+  },
+  {
+   "num": 10,
+   "id": "10",
+   "title": "Administrative Office Tower",
+   "subtitle": "High-rise office building design",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2022",
+   "role": "Architectural Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Design of a multi-storey administrative office tower with a distinctive bridged twin-volume massing connected at upper levels.",
+   "summaryFull": "Design of a multi-storey administrative office tower with a distinctive bridged twin-volume massing connected at upper levels. The scheme features a fully glazed curtain-wall facade with vertical mullions, modelled and rendered in 3D, and is supported by a complete set of stacked floor plans spanning basement, ground, typical office floors and upper levels. Ahmed Dahmash produced both the 3D massing/visualization and the architectural plan set.",
+   "hero": "assets/projects/10/001.jpg",
+   "heroThumb": "assets/projects/10/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/10/001.jpg",
+     "sm": "assets/projects/10/001-t.jpg",
+     "kind": "img",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "lg": "assets/projects/10/002.jpg",
+     "sm": "assets/projects/10/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/10/003.jpg",
+     "sm": "assets/projects/10/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/10/004.jpg",
+     "sm": "assets/projects/10/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/10/005.jpg",
+     "sm": "assets/projects/10/005-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/006.jpg",
+     "sm": "assets/projects/10/006-t.jpg",
+     "kind": "plan",
+     "caption": "Typical floor plan (floors 1-11)",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/007.jpg",
+     "sm": "assets/projects/10/007-t.jpg",
+     "kind": "plan",
+     "caption": "Typical floor plan (floors 13-18)",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/008.jpg",
+     "sm": "assets/projects/10/008-t.jpg",
+     "kind": "plan",
+     "caption": "Floor plan (level 8)",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/009.jpg",
+     "sm": "assets/projects/10/009-t.jpg",
+     "kind": "plan",
+     "caption": "Basement floor plan",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/010.jpg",
+     "sm": "assets/projects/10/010-t.jpg",
+     "kind": "plan",
+     "caption": "3D massing views",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/011.jpg",
+     "sm": "assets/projects/10/011-t.jpg",
+     "kind": "plan",
+     "caption": "1ثري دي ضخم",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/012.jpg",
+     "sm": "assets/projects/10/012-t.jpg",
+     "kind": "plan",
+     "caption": "ثري دي1",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/013.jpg",
+     "sm": "assets/projects/10/013-t.jpg",
+     "kind": "plan",
+     "caption": "ثري دي2",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/014.jpg",
+     "sm": "assets/projects/10/014-t.jpg",
+     "kind": "plan",
+     "caption": "ثري دي3",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/015.jpg",
+     "sm": "assets/projects/10/015-t.jpg",
+     "kind": "plan",
+     "caption": "ثري دي",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/016.jpg",
+     "sm": "assets/projects/10/016-t.jpg",
+     "kind": "plan",
+     "caption": "مسقط الدو الارضي 11",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/017.jpg",
+     "sm": "assets/projects/10/017-t.jpg",
+     "kind": "plan",
+     "caption": "مسقط الدور 2-12 22",
+     "w": 1060,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/018.jpg",
+     "sm": "assets/projects/10/018-t.jpg",
+     "kind": "plan",
+     "caption": "مسقط الدور 8 -2",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/019.jpg",
+     "sm": "assets/projects/10/019-t.jpg",
+     "kind": "plan",
+     "caption": "مسقط الدور 14-20  2",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/10/020.jpg",
+     "sm": "assets/projects/10/020-t.jpg",
+     "kind": "plan",
+     "caption": "مسقط الدور 15-20",
+     "w": 1061,
+     "h": 1500
+    }
+   ],
+   "mediaCount": 20
+  },
+  {
+   "num": 11,
+   "id": "11",
+   "title": "Mixed-Use Tower, Sana'a",
+   "subtitle": "Commercial, administrative & residential",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design",
+   "type": "Design",
+   "summary": "Design of a mixed-use development combining commercial, administrative and residential functions, organised as two linked towers set within a landscaped site.",
+   "summaryFull": "Design of a mixed-use development combining commercial, administrative and residential functions, organised as two linked towers set within a landscaped site. The Revit-authored drawing set includes the site/master plan with road frontage and typical floor plans developed separately for the residential and administrative towers. Ahmed Dahmash produced the architectural layouts and stacking strategy.",
+   "hero": "assets/projects/11/001.jpg",
+   "heroThumb": "assets/projects/11/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/11/001.jpg",
+     "sm": "assets/projects/11/001-t.jpg",
+     "kind": "plan",
+     "caption": "Site / ground floor plan",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/11/002.jpg",
+     "sm": "assets/projects/11/002-t.jpg",
+     "kind": "plan",
+     "caption": "Residential tower typical floor",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/11/003.jpg",
+     "sm": "assets/projects/11/003-t.jpg",
+     "kind": "plan",
+     "caption": "Administrative tower typical floor",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/11/004.jpg",
+     "sm": "assets/projects/11/004-t.jpg",
+     "kind": "plan",
+     "caption": "Fourth floor plan",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/11/005.jpg",
+     "sm": "assets/projects/11/005-t.jpg",
+     "kind": "plan",
+     "caption": "Fifth floor plan",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/11/006.jpg",
+     "sm": "assets/projects/11/006-t.jpg",
+     "kind": "plan",
+     "caption": "Typical floor plan",
+     "w": 1500,
+     "h": 1050
+    }
+   ],
+   "mediaCount": 6
+  },
+  {
+   "num": 12,
+   "id": "12",
+   "title": "Bin Rashid Residential Building",
+   "subtitle": "Apartment building, Riyadh",
+   "category": "Residential",
+   "location": "Riyadh, Saudi Arabia",
+   "year": "2024",
+   "role": "Architectural Design",
+   "type": "Design",
+   "summary": "Architectural design of the Bin Rashid residential apartment building in Riyadh, documented through dimensioned ground-floor and typical-floor plans within a titled A101 sheet set.",
+   "summaryFull": "Architectural design of the Bin Rashid residential apartment building in Riyadh, documented through dimensioned ground-floor and typical-floor plans within a titled A101 sheet set. Each floor accommodates multiple apartment units with stair and service cores. Ahmed Dahmash developed the unit layouts and floor planning.",
+   "hero": "assets/projects/12/001.jpg",
+   "heroThumb": "assets/projects/12/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/12/001.jpg",
+     "sm": "assets/projects/12/001-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/12/002.jpg",
+     "sm": "assets/projects/12/002-t.jpg",
+     "kind": "plan",
+     "caption": "First & typical floor plan",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/12/003.jpg",
+     "sm": "assets/projects/12/003-t.jpg",
+     "kind": "plan",
+     "caption": "First & typical floor plan (variant)",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 3
+  },
+  {
+   "num": 13,
+   "id": "13",
+   "title": "Residential Building Facade, Sana'a",
+   "subtitle": "Facade design & visualization",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2024",
+   "role": "Facade Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Facade design and photorealistic visualization for a roughly seven-storey residential building in Sana'a.",
+   "summaryFull": "Facade design and photorealistic visualization for a roughly seven-storey residential building in Sana'a. The composition pairs a light cream stone-clad facade with slender vertical glazing, classical cornice and balustrade detailing, an arcaded ground-floor retail base and a recessed roof terrace. Ahmed Dahmash designed the elevation language and produced the rendered street-level visualizations.",
+   "hero": "assets/projects/13/001.jpg",
+   "heroThumb": "assets/projects/13/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/13/001.jpg",
+     "sm": "assets/projects/13/001-t.jpg",
+     "kind": "img",
+     "w": 989,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/13/002.jpg",
+     "sm": "assets/projects/13/002-t.jpg",
+     "kind": "img",
+     "w": 989,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/13/003.jpg",
+     "sm": "assets/projects/13/003-t.jpg",
+     "kind": "img",
+     "w": 503,
+     "h": 1080
+    },
+    {
+     "lg": "assets/projects/13/004.jpg",
+     "sm": "assets/projects/13/004-t.jpg",
+     "kind": "img",
+     "w": 960,
+     "h": 540
+    }
+   ],
+   "mediaCount": 4
+  },
+  {
+   "num": 14,
+   "id": "14",
+   "title": "Sifr Street Commercial-Residential Building",
+   "subtitle": "Design & build, Sana'a",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Design & Construction Supervision",
+   "type": "Design & Build",
+   "summary": "Design-and-build commercial-residential building (Jibran Al-Mukharfi) on Sifr Street, Sana'a.",
+   "summaryFull": "Design-and-build commercial-residential building (Jibran Al-Mukharfi) on Sifr Street, Sana'a. The scheme combines a glazed retail ground floor with arched, stone-detailed residential upper floors and projecting balconies, captured in a full photorealistic visualization gallery alongside complete architectural and structural execution drawings for all floors. Ahmed Dahmash handled both design/visualization and on-site construction supervision.",
+   "hero": "assets/projects/14/001.jpg",
+   "heroThumb": "assets/projects/14/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/14/001.jpg",
+     "sm": "assets/projects/14/001-t.jpg",
+     "kind": "plan",
+     "caption": "Rendered visualization gallery",
+     "w": 1500,
+     "h": 1240
+    },
+    {
+     "lg": "assets/projects/14/002.jpg",
+     "sm": "assets/projects/14/002-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 1",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/003.jpg",
+     "sm": "assets/projects/14/003-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 2",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/004.jpg",
+     "sm": "assets/projects/14/004-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 3",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/005.jpg",
+     "sm": "assets/projects/14/005-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 4",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/006.jpg",
+     "sm": "assets/projects/14/006-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 5",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/007.jpg",
+     "sm": "assets/projects/14/007-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 6",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/008.jpg",
+     "sm": "assets/projects/14/008-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 7",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/009.jpg",
+     "sm": "assets/projects/14/009-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 8",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/010.jpg",
+     "sm": "assets/projects/14/010-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 9",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/011.jpg",
+     "sm": "assets/projects/14/011-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 10",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/012.jpg",
+     "sm": "assets/projects/14/012-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 11",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/013.jpg",
+     "sm": "assets/projects/14/013-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 12",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/14/014.jpg",
+     "sm": "assets/projects/14/014-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 13",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/015.jpg",
+     "sm": "assets/projects/14/015-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 14",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/016.jpg",
+     "sm": "assets/projects/14/016-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 15",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/017.jpg",
+     "sm": "assets/projects/14/017-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings, all floors — sheet 16",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/018.jpg",
+     "sm": "assets/projects/14/018-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 1",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/019.jpg",
+     "sm": "assets/projects/14/019-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 2",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/020.jpg",
+     "sm": "assets/projects/14/020-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 3",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/021.jpg",
+     "sm": "assets/projects/14/021-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 4",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/022.jpg",
+     "sm": "assets/projects/14/022-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 5",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/023.jpg",
+     "sm": "assets/projects/14/023-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 6",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/024.jpg",
+     "sm": "assets/projects/14/024-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 7",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/025.jpg",
+     "sm": "assets/projects/14/025-t.jpg",
+     "kind": "plan",
+     "caption": "Execution drawings (compiled) — sheet 8",
+     "w": 1061,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/14/026.jpg",
+     "sm": "assets/projects/14/026-t.jpg",
+     "kind": "plan",
+     "caption": "First floor plan (updated)",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/14/027.jpg",
+     "sm": "assets/projects/14/027-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 1",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/028.jpg",
+     "sm": "assets/projects/14/028-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 2",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/029.jpg",
+     "sm": "assets/projects/14/029-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 3",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/030.jpg",
+     "sm": "assets/projects/14/030-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 4",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/031.jpg",
+     "sm": "assets/projects/14/031-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 5",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/032.jpg",
+     "sm": "assets/projects/14/032-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 6",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/033.jpg",
+     "sm": "assets/projects/14/033-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 7",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/034.jpg",
+     "sm": "assets/projects/14/034-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 8",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/035.jpg",
+     "sm": "assets/projects/14/035-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 9",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/036.jpg",
+     "sm": "assets/projects/14/036-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 10",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/037.jpg",
+     "sm": "assets/projects/14/037-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 11",
+     "w": 1500,
+     "h": 1055
+    },
+    {
+     "lg": "assets/projects/14/038.jpg",
+     "sm": "assets/projects/14/038-t.jpg",
+     "kind": "plan",
+     "caption": "جبران المخرفي شارع صفر نهائي1 — sheet 12",
+     "w": 1500,
+     "h": 1055
+    }
+   ],
+   "mediaCount": 38
+  },
+  {
+   "num": 15,
+   "id": "15",
+   "title": "Bin Farhan Commercial-Residential Building",
+   "subtitle": "Design & build, Sana'a",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2024",
+   "role": "Design & Construction Supervision",
+   "type": "Design & Build",
+   "summary": "Design-and-build commercial-residential building for Mohammed Farhan Ahmed Al-Jatham in Sana'a, taken from concept through construction.",
+   "summaryFull": "Design-and-build commercial-residential building for Mohammed Farhan Ahmed Al-Jatham in Sana'a, taken from concept through construction. The symmetrical main elevation features a tall central recessed entry bay, arched windows and a stone facade, supported by a full architectural set (typical, penthouse/roof-room and annex floors) and a complete second-stage structural package. Ahmed Dahmash provided architectural design, facade design, structural coordination and on-site supervision, including documented site progress.",
+   "hero": "assets/projects/15/001.jpg",
+   "heroThumb": "assets/projects/15/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/15/001.jpg",
+     "sm": "assets/projects/15/001-t.jpg",
+     "kind": "img",
+     "w": 1196,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/15/002.jpg",
+     "sm": "assets/projects/15/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/15/003.jpg",
+     "sm": "assets/projects/15/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/15/004.jpg",
+     "sm": "assets/projects/15/004-t.jpg",
+     "kind": "img",
+     "w": 710,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/15/005.jpg",
+     "sm": "assets/projects/15/005-t.jpg",
+     "kind": "img",
+     "w": 1080,
+     "h": 810
+    },
+    {
+     "lg": "assets/projects/15/006.jpg",
+     "sm": "assets/projects/15/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1119
+    },
+    {
+     "lg": "assets/projects/15/007.jpg",
+     "sm": "assets/projects/15/007-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1119
+    },
+    {
+     "lg": "assets/projects/15/008.jpg",
+     "sm": "assets/projects/15/008-t.jpg",
+     "kind": "plan",
+     "caption": "Updated architectural model / plan",
+     "w": 1500,
+     "h": 1086
+    },
+    {
+     "lg": "assets/projects/15/009.jpg",
+     "sm": "assets/projects/15/009-t.jpg",
+     "kind": "plan",
+     "caption": "Typical floor plan (revised)",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/010.jpg",
+     "sm": "assets/projects/15/010-t.jpg",
+     "kind": "plan",
+     "caption": "Annex floor architectural plan",
+     "w": 1500,
+     "h": 1086
+    },
+    {
+     "lg": "assets/projects/15/011.jpg",
+     "sm": "assets/projects/15/011-t.jpg",
+     "kind": "plan",
+     "caption": "Penthouse/roof-room floor plan",
+     "w": 1500,
+     "h": 1086
+    },
+    {
+     "lg": "assets/projects/15/012.jpg",
+     "sm": "assets/projects/15/012-t.jpg",
+     "kind": "plan",
+     "caption": "Gate / entrance detail",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/013.jpg",
+     "sm": "assets/projects/15/013-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 1",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/014.jpg",
+     "sm": "assets/projects/15/014-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 2",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/015.jpg",
+     "sm": "assets/projects/15/015-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 3",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/016.jpg",
+     "sm": "assets/projects/15/016-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 4",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/017.jpg",
+     "sm": "assets/projects/15/017-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 5",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/018.jpg",
+     "sm": "assets/projects/15/018-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 6",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/019.jpg",
+     "sm": "assets/projects/15/019-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 7",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/020.jpg",
+     "sm": "assets/projects/15/020-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 8",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/021.jpg",
+     "sm": "assets/projects/15/021-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات الانشائية المرحلة الثانية لعمارة الاخ محمد فرحان2222 — sheet 9",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/15/022.jpg",
+     "sm": "assets/projects/15/022-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات المعمارية لعمارة الاخ محمد فرحان الواحهه الرئيسية 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/023.jpg",
+     "sm": "assets/projects/15/023-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات المعمارية للدورالمسروق والدور المتكرر بعد إضافة المصعد للعمارة — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/024.jpg",
+     "sm": "assets/projects/15/024-t.jpg",
+     "kind": "plan",
+     "caption": "المخططات المعمارية للدورالمسروق والدور المتكرر بعد إضافة المصعد للعمارة — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/025.jpg",
+     "sm": "assets/projects/15/025-t.jpg",
+     "kind": "plan",
+     "caption": "تصميم الطيرمانة",
+     "w": 1500,
+     "h": 1086
+    },
+    {
+     "lg": "assets/projects/15/026.jpg",
+     "sm": "assets/projects/15/026-t.jpg",
+     "kind": "plan",
+     "caption": "عمارة الاخ محمد فرحان-1",
+     "w": 1423,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/15/027.jpg",
+     "sm": "assets/projects/15/027-t.jpg",
+     "kind": "plan",
+     "caption": "مخطط الدور المسروق والمتكرر بعد إضافة المصعد في الجهة الغربية — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/028.jpg",
+     "sm": "assets/projects/15/028-t.jpg",
+     "kind": "plan",
+     "caption": "مخطط الدور المسروق والمتكرر بعد إضافة المصعد في الجهة الغربية — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/15/029.jpg",
+     "sm": "assets/projects/15/029-t.jpg",
+     "kind": "plan",
+     "caption": "مخطط سقف الدور المسروق وفيه الجسور الساقطة من أجل التصريف الصحي للمناور",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 29
+  },
+  {
+   "num": 16,
+   "id": "16",
+   "title": "Hadda Residential Complex",
+   "subtitle": "Construction Supervision",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Site Supervision & Construction Documentation",
+   "type": "Construction",
+   "summary": "Construction supervision of a multi-building residential complex in the Hadda district of Sana'a, comprising several adjacent reinforced-concrete apartment buildings (north corner and north internal blocks).",
+   "summaryFull": "Construction supervision of a multi-building residential complex in the Hadda district of Sana'a, comprising several adjacent reinforced-concrete apartment buildings (north corner and north internal blocks). Ahmed supervised execution against the approved structural drawing sets, coordinating QA/QC, quantity surveying and on-site enforcement of the engineering specifications. The deliverables shown are the project's structural plan packages used to drive and verify works in the field.",
+   "hero": "assets/projects/16/001.jpg",
+   "heroThumb": "assets/projects/16/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/16/001.jpg",
+     "sm": "assets/projects/16/001-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/002.jpg",
+     "sm": "assets/projects/16/002-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/003.jpg",
+     "sm": "assets/projects/16/003-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/004.jpg",
+     "sm": "assets/projects/16/004-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/005.jpg",
+     "sm": "assets/projects/16/005-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/006.jpg",
+     "sm": "assets/projects/16/006-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 6",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/007.jpg",
+     "sm": "assets/projects/16/007-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 7",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/008.jpg",
+     "sm": "assets/projects/16/008-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 8",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/009.jpg",
+     "sm": "assets/projects/16/009-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 9",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/010.jpg",
+     "sm": "assets/projects/16/010-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 10",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/011.jpg",
+     "sm": "assets/projects/16/011-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الداخلي الشمالي — sheet 11",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/012.jpg",
+     "sm": "assets/projects/16/012-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/013.jpg",
+     "sm": "assets/projects/16/013-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/014.jpg",
+     "sm": "assets/projects/16/014-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/015.jpg",
+     "sm": "assets/projects/16/015-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/016.jpg",
+     "sm": "assets/projects/16/016-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/017.jpg",
+     "sm": "assets/projects/16/017-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 6",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/018.jpg",
+     "sm": "assets/projects/16/018-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 7",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/019.jpg",
+     "sm": "assets/projects/16/019-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 8",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/020.jpg",
+     "sm": "assets/projects/16/020-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 9",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/021.jpg",
+     "sm": "assets/projects/16/021-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 10",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/022.jpg",
+     "sm": "assets/projects/16/022-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 11",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/023.jpg",
+     "sm": "assets/projects/16/023-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 12",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/024.jpg",
+     "sm": "assets/projects/16/024-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 13",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/025.jpg",
+     "sm": "assets/projects/16/025-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 14",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/16/026.jpg",
+     "sm": "assets/projects/16/026-t.jpg",
+     "kind": "plan",
+     "caption": "جبران - المخطط الانشائي للمبنى الركني الشمالي — sheet 15",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 26
+  },
+  {
+   "num": 17,
+   "id": "17",
+   "title": "Mohammed Amer Commercial-Residential Building",
+   "subtitle": "Design & Build",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design, 3D Visualization & Site Supervision",
+   "type": "Design & Build",
+   "summary": "A five-storey mixed-use building combining ground-floor commercial shopfronts with residential floors above, designed and built for client Mohammed Amer in Sana'a.",
+   "summaryFull": "A five-storey mixed-use building combining ground-floor commercial shopfronts with residential floors above, designed and built for client Mohammed Amer in Sana'a. The facade pairs a light stone-clad frame with deep blue glazed bays and a recessed entrance arcade. Ahmed produced the full architectural design and photorealistic 3D renders, then supervised the build, with site photography documenting the structure under construction alongside the final visualizations.",
+   "hero": "assets/projects/17/001.jpg",
+   "heroThumb": "assets/projects/17/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/17/001.jpg",
+     "sm": "assets/projects/17/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/17/002.jpg",
+     "sm": "assets/projects/17/002-t.jpg",
+     "kind": "img",
+     "w": 1000,
+     "h": 467
+    },
+    {
+     "lg": "assets/projects/17/003.jpg",
+     "sm": "assets/projects/17/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/17/004.jpg",
+     "sm": "assets/projects/17/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    }
+   ],
+   "mediaCount": 4
+  },
+  {
+   "num": 18,
+   "id": "18",
+   "title": "Mahmoud Al-Eryani Commercial-Residential Building",
+   "subtitle": "Design & Build",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design & Construction Supervision",
+   "type": "Design & Build",
+   "summary": "A mixed-use commercial-residential building designed and executed for client Mahmoud Al-Eryani in Sana'a.",
+   "summaryFull": "A mixed-use commercial-residential building designed and executed for client Mahmoud Al-Eryani in Sana'a. The architectural package develops multiple unit layouts across the ground, first and typical upper floors, with three alternative first-floor models studied to optimize the residential mix. Ahmed delivered the full floor-plan set under his own title block and supervised construction on site.",
+   "hero": "assets/projects/18/001.jpg",
+   "heroThumb": "assets/projects/18/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/18/001.jpg",
+     "sm": "assets/projects/18/001-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan — model 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/18/002.jpg",
+     "sm": "assets/projects/18/002-t.jpg",
+     "kind": "plan",
+     "caption": "First floor plan — model 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/18/003.jpg",
+     "sm": "assets/projects/18/003-t.jpg",
+     "kind": "plan",
+     "caption": "First floor plan — model 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/18/004.jpg",
+     "sm": "assets/projects/18/004-t.jpg",
+     "kind": "plan",
+     "caption": "First floor plan — model 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/18/005.jpg",
+     "sm": "assets/projects/18/005-t.jpg",
+     "kind": "plan",
+     "caption": "Second & typical floor plan — model 1",
+     "w": 1500,
+     "h": 1060
+    }
+   ],
+   "mediaCount": 5
+  },
+  {
+   "num": 19,
+   "id": "19",
+   "title": "Al-Makhrafi Villa Garden",
+   "subtitle": "Landscape Design",
+   "category": "Landscape",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Landscape Design & Construction Documentation",
+   "type": "Design",
+   "summary": "Private garden and landscape design for the villa of Saqr Al-Makhrafi.",
+   "summaryFull": "Private garden and landscape design for the villa of Saqr Al-Makhrafi. The scheme organizes the plot with terraced planting beds, paved circulation, seating zones and screening greenery around the villa envelope. Ahmed delivered both the design presentation and the executive landscape drawings under his Architecture Skyline / Ahmed Dahmash studio identity, ready for on-site implementation.",
+   "hero": "assets/projects/19/001.jpg",
+   "heroThumb": "assets/projects/19/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/19/001.jpg",
+     "sm": "assets/projects/19/001-t.jpg",
+     "kind": "plan",
+     "caption": "Executive landscape drawings — sheet 1",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/19/002.jpg",
+     "sm": "assets/projects/19/002-t.jpg",
+     "kind": "plan",
+     "caption": "Executive landscape drawings — sheet 2",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/19/003.jpg",
+     "sm": "assets/projects/19/003-t.jpg",
+     "kind": "plan",
+     "caption": "Executive landscape drawings — sheet 3",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/19/004.jpg",
+     "sm": "assets/projects/19/004-t.jpg",
+     "kind": "plan",
+     "caption": "Executive landscape drawings — sheet 4",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/19/005.jpg",
+     "sm": "assets/projects/19/005-t.jpg",
+     "kind": "plan",
+     "caption": "Executive landscape drawings — sheet 5",
+     "w": 1500,
+     "h": 1060
+    },
+    {
+     "lg": "assets/projects/19/006.jpg",
+     "sm": "assets/projects/19/006-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 1",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/007.jpg",
+     "sm": "assets/projects/19/007-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 2",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/008.jpg",
+     "sm": "assets/projects/19/008-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 3",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/009.jpg",
+     "sm": "assets/projects/19/009-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 4",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/010.jpg",
+     "sm": "assets/projects/19/010-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 5",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/011.jpg",
+     "sm": "assets/projects/19/011-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 6",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/012.jpg",
+     "sm": "assets/projects/19/012-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 7",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/013.jpg",
+     "sm": "assets/projects/19/013-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 8",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/014.jpg",
+     "sm": "assets/projects/19/014-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 9",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/015.jpg",
+     "sm": "assets/projects/19/015-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 10",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/016.jpg",
+     "sm": "assets/projects/19/016-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 11",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/017.jpg",
+     "sm": "assets/projects/19/017-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 12",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/018.jpg",
+     "sm": "assets/projects/19/018-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 13",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/019.jpg",
+     "sm": "assets/projects/19/019-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 14",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/020.jpg",
+     "sm": "assets/projects/19/020-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 15",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/19/021.jpg",
+     "sm": "assets/projects/19/021-t.jpg",
+     "kind": "plan",
+     "caption": "مشروع تصميم حديقة فيلا الأخ صقر المخرفي — sheet 16",
+     "w": 1500,
+     "h": 844
+    }
+   ],
+   "mediaCount": 21
+  },
+  {
+   "num": 20,
+   "id": "20",
+   "title": "Global Technology Center",
+   "subtitle": "Graduation Project — Flagship",
+   "category": "Cultural",
+   "location": "Sana'a, Yemen",
+   "year": "2023",
+   "role": "Lead Architectural Design & 3D Visualization",
+   "type": "Design",
+   "summary": "The Global Technology Center (GLOBAL TECH) is Ahmed's graduation thesis from Sana'a University — a flagship, government-oriented technology campus that earned a distinction grade and national television coverage.",
+   "summaryFull": "The Global Technology Center (GLOBAL TECH) is Ahmed's graduation thesis from Sana'a University — a flagship, government-oriented technology campus that earned a distinction grade and national television coverage. The design is a sweeping, multi-level curvilinear landmark of stacked elliptical floor plates wrapped in stone, glass and a dramatic sculpted canopy, set within a master-planned landscaped site shaped by topographic contours. Ahmed led the entire scheme end to end: conceptual massing and site planning, full architectural development, structural and circulation diagramming, and a complete suite of photorealistic exterior visualizations and a presentation board. It stands as the showpiece of his portfolio, demonstrating large-scale civic design ambition matched with high-end rendering and presentation skill.",
+   "hero": "assets/projects/20/001.jpg",
+   "heroThumb": "assets/projects/20/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/20/001.jpg",
+     "sm": "assets/projects/20/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/002.jpg",
+     "sm": "assets/projects/20/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/003.jpg",
+     "sm": "assets/projects/20/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/004.jpg",
+     "sm": "assets/projects/20/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/005.jpg",
+     "sm": "assets/projects/20/005-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/006.jpg",
+     "sm": "assets/projects/20/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/007.jpg",
+     "sm": "assets/projects/20/007-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/008.jpg",
+     "sm": "assets/projects/20/008-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/009.jpg",
+     "sm": "assets/projects/20/009-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1223
+    },
+    {
+     "lg": "assets/projects/20/010.jpg",
+     "sm": "assets/projects/20/010-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 865
+    },
+    {
+     "lg": "assets/projects/20/011.jpg",
+     "sm": "assets/projects/20/011-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 874
+    },
+    {
+     "lg": "assets/projects/20/012.jpg",
+     "sm": "assets/projects/20/012-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/013.jpg",
+     "sm": "assets/projects/20/013-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/014.jpg",
+     "sm": "assets/projects/20/014-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/015.jpg",
+     "sm": "assets/projects/20/015-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/016.jpg",
+     "sm": "assets/projects/20/016-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/017.jpg",
+     "sm": "assets/projects/20/017-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/018.jpg",
+     "sm": "assets/projects/20/018-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1031
+    },
+    {
+     "lg": "assets/projects/20/019.jpg",
+     "sm": "assets/projects/20/019-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/20/020.jpg",
+     "sm": "assets/projects/20/020-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 727
+    },
+    {
+     "lg": "assets/projects/20/021.jpg",
+     "sm": "assets/projects/20/021-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 683
+    },
+    {
+     "lg": "assets/projects/20/022.jpg",
+     "sm": "assets/projects/20/022-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 925
+    },
+    {
+     "lg": "assets/projects/20/023.jpg",
+     "sm": "assets/projects/20/023-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 581
+    },
+    {
+     "lg": "assets/projects/20/024.jpg",
+     "sm": "assets/projects/20/024-t.jpg",
+     "kind": "img",
+     "w": 1234,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/20/025.jpg",
+     "sm": "assets/projects/20/025-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1020
+    },
+    {
+     "lg": "assets/projects/20/026.jpg",
+     "sm": "assets/projects/20/026-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1020
+    },
+    {
+     "lg": "assets/projects/20/027.jpg",
+     "sm": "assets/projects/20/027-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 541
+    },
+    {
+     "lg": "assets/projects/20/028.jpg",
+     "sm": "assets/projects/20/028-t.jpg",
+     "kind": "plan",
+     "caption": "Floor-plate & program diagrams",
+     "w": 1125,
+     "h": 1500
+    }
+   ],
+   "mediaCount": 28
+  },
+  {
+   "num": 21,
+   "id": "21",
+   "title": "Specialized Cardiac Hospital",
+   "subtitle": "",
+   "category": "Healthcare",
+   "location": "Sana'a, Yemen",
+   "year": "2022",
+   "role": "Architectural Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Design for a specialized heart hospital — a large multi-storey medical complex with a dedicated emergency wing, a landscaped arrival plaza and a central fountain forecourt.",
+   "summaryFull": "Design for a specialized heart hospital — a large multi-storey medical complex with a dedicated emergency wing, a landscaped arrival plaza and a central fountain forecourt. The massing combines a tall inpatient slab with lower clinical blocks, articulated in stone and curtain-wall glazing with a brick-toned vertical core. Ahmed developed the full architectural design, site planning and a complete set of photorealistic exterior renders and a presentation board.",
+   "hero": "assets/projects/21/001.jpg",
+   "heroThumb": "assets/projects/21/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/21/001.jpg",
+     "sm": "assets/projects/21/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/002.jpg",
+     "sm": "assets/projects/21/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/003.jpg",
+     "sm": "assets/projects/21/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/004.jpg",
+     "sm": "assets/projects/21/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/005.jpg",
+     "sm": "assets/projects/21/005-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/006.jpg",
+     "sm": "assets/projects/21/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/007.jpg",
+     "sm": "assets/projects/21/007-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/008.jpg",
+     "sm": "assets/projects/21/008-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/009.jpg",
+     "sm": "assets/projects/21/009-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/010.jpg",
+     "sm": "assets/projects/21/010-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1000
+    },
+    {
+     "lg": "assets/projects/21/011.jpg",
+     "sm": "assets/projects/21/011-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/012.jpg",
+     "sm": "assets/projects/21/012-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/013.jpg",
+     "sm": "assets/projects/21/013-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/21/014.jpg",
+     "sm": "assets/projects/21/014-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    }
+   ],
+   "mediaCount": 14
+  },
+  {
+   "num": 23,
+   "id": "23",
+   "title": "Private Residential Villa",
+   "subtitle": "Two-storey villa, full municipal drawing set",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design & Working Drawings",
+   "type": "Design",
+   "summary": "Design and full working-drawing package for a two-storey private villa on an irregular corner plot.",
+   "summaryFull": "Design and full working-drawing package for a two-storey private villa on an irregular corner plot. The set covers a colored, furnished ground- and first-floor layout, four elevations, two cross-sections and construction details, all coordinated to municipal submission standards. The massing steps back in clean orthogonal volumes with a defined front entrance and landscaped setbacks.",
+   "hero": "assets/projects/23/001.jpg",
+   "heroThumb": "assets/projects/23/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/23/001.jpg",
+     "sm": "assets/projects/23/001-t.jpg",
+     "kind": "plan",
+     "caption": "11",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/002.jpg",
+     "sm": "assets/projects/23/002-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 1",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/003.jpg",
+     "sm": "assets/projects/23/003-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 2",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/004.jpg",
+     "sm": "assets/projects/23/004-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 3",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/005.jpg",
+     "sm": "assets/projects/23/005-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 4",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/006.jpg",
+     "sm": "assets/projects/23/006-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 5",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/007.jpg",
+     "sm": "assets/projects/23/007-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 6",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/008.jpg",
+     "sm": "assets/projects/23/008-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 7",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/009.jpg",
+     "sm": "assets/projects/23/009-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 8",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/010.jpg",
+     "sm": "assets/projects/23/010-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 9",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/011.jpg",
+     "sm": "assets/projects/23/011-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 10",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/012.jpg",
+     "sm": "assets/projects/23/012-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 11",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/013.jpg",
+     "sm": "assets/projects/23/013-t.jpg",
+     "kind": "plan",
+     "caption": "Site plan",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/014.jpg",
+     "sm": "assets/projects/23/014-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan (colored, site)",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/015.jpg",
+     "sm": "assets/projects/23/015-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/016.jpg",
+     "sm": "assets/projects/23/016-t.jpg",
+     "kind": "plan",
+     "caption": "First floor plan",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/017.jpg",
+     "sm": "assets/projects/23/017-t.jpg",
+     "kind": "plan",
+     "caption": "North elevation",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/018.jpg",
+     "sm": "assets/projects/23/018-t.jpg",
+     "kind": "plan",
+     "caption": "East elevation",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/019.jpg",
+     "sm": "assets/projects/23/019-t.jpg",
+     "kind": "plan",
+     "caption": "South elevation",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/020.jpg",
+     "sm": "assets/projects/23/020-t.jpg",
+     "kind": "plan",
+     "caption": "Front elevation",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/021.jpg",
+     "sm": "assets/projects/23/021-t.jpg",
+     "kind": "plan",
+     "caption": "Section A",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/23/022.jpg",
+     "sm": "assets/projects/23/022-t.jpg",
+     "kind": "plan",
+     "caption": "Section B / details",
+     "w": 1500,
+     "h": 1061
+    }
+   ],
+   "mediaCount": 22
+  },
+  {
+   "num": 24,
+   "id": "24",
+   "title": "Private Residential Villa",
+   "subtitle": "Narrow-plot villa with CAD source files",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design & Working Drawings",
+   "type": "Design",
+   "summary": "Architectural design and full construction-drawing package for a multi-storey residential villa on a narrow rectangular plot.",
+   "summaryFull": "Architectural design and full construction-drawing package for a multi-storey residential villa on a narrow rectangular plot. The set delivers colored floor plans, north/south and west/back elevations, two sections, door and window schedules, stair and wall-section details. Native AutoCAD source files are retained for coordination and future revisions.",
+   "hero": "assets/projects/24/001.jpg",
+   "heroThumb": "assets/projects/24/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/24/001.jpg",
+     "sm": "assets/projects/24/001-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan (colored)",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/002.jpg",
+     "sm": "assets/projects/24/002-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 1",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/003.jpg",
+     "sm": "assets/projects/24/003-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 2",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/004.jpg",
+     "sm": "assets/projects/24/004-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 3",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/005.jpg",
+     "sm": "assets/projects/24/005-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 4",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/006.jpg",
+     "sm": "assets/projects/24/006-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 5",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/007.jpg",
+     "sm": "assets/projects/24/007-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 6",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/008.jpg",
+     "sm": "assets/projects/24/008-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 7",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/009.jpg",
+     "sm": "assets/projects/24/009-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 8",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/010.jpg",
+     "sm": "assets/projects/24/010-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 9",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/011.jpg",
+     "sm": "assets/projects/24/011-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 10",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/012.jpg",
+     "sm": "assets/projects/24/012-t.jpg",
+     "kind": "plan",
+     "caption": "Full villa drawing set — sheet 11",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/013.jpg",
+     "sm": "assets/projects/24/013-t.jpg",
+     "kind": "plan",
+     "caption": "Site / roof plan",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/014.jpg",
+     "sm": "assets/projects/24/014-t.jpg",
+     "kind": "plan",
+     "caption": "First floor plan (colored)",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/015.jpg",
+     "sm": "assets/projects/24/015-t.jpg",
+     "kind": "plan",
+     "caption": "Upper floor plan",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/016.jpg",
+     "sm": "assets/projects/24/016-t.jpg",
+     "kind": "plan",
+     "caption": "Elevations (south / north)",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/017.jpg",
+     "sm": "assets/projects/24/017-t.jpg",
+     "kind": "plan",
+     "caption": "Elevations (west / back)",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/018.jpg",
+     "sm": "assets/projects/24/018-t.jpg",
+     "kind": "plan",
+     "caption": "Section A",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/019.jpg",
+     "sm": "assets/projects/24/019-t.jpg",
+     "kind": "plan",
+     "caption": "Section B",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/020.jpg",
+     "sm": "assets/projects/24/020-t.jpg",
+     "kind": "plan",
+     "caption": "Door / window details & schedule",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/021.jpg",
+     "sm": "assets/projects/24/021-t.jpg",
+     "kind": "plan",
+     "caption": "Stair details",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/24/022.jpg",
+     "sm": "assets/projects/24/022-t.jpg",
+     "kind": "plan",
+     "caption": "Wall-section details",
+     "w": 1500,
+     "h": 1061
+    }
+   ],
+   "mediaCount": 22
+  },
+  {
+   "num": 25,
+   "id": "25",
+   "title": "Sami Al-Kumaim Residential Building",
+   "subtitle": "Multi-storey apartment building",
+   "category": "Residential",
+   "location": "Sana'a, Yemen",
+   "year": "2025",
+   "role": "Architectural Design & 3D Visualization",
+   "type": "Design",
+   "summary": "Design and 3D visualization of a multi-storey residential apartment building on a trapezoidal plot with ground-level parking access.",
+   "summaryFull": "Design and 3D visualization of a multi-storey residential apartment building on a trapezoidal plot with ground-level parking access. The scheme stacks repeating apartment floors above a setback entrance and is presented through dimensioned floor plans and exterior 3D massing renders. The facade uses a restrained palette with vertical window groupings and projecting volumes to articulate the elevation.",
+   "hero": "assets/projects/25/001.jpg",
+   "heroThumb": "assets/projects/25/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/25/001.jpg",
+     "sm": "assets/projects/25/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 969
+    },
+    {
+     "lg": "assets/projects/25/002.jpg",
+     "sm": "assets/projects/25/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/25/003.jpg",
+     "sm": "assets/projects/25/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/25/004.jpg",
+     "sm": "assets/projects/25/004-t.jpg",
+     "kind": "img",
+     "w": 1253,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/25/005.jpg",
+     "sm": "assets/projects/25/005-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/25/006.jpg",
+     "sm": "assets/projects/25/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1046
+    },
+    {
+     "lg": "assets/projects/25/007.jpg",
+     "sm": "assets/projects/25/007-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1021
+    },
+    {
+     "lg": "assets/projects/25/008.jpg",
+     "sm": "assets/projects/25/008-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1010
+    },
+    {
+     "lg": "assets/projects/25/009.jpg",
+     "sm": "assets/projects/25/009-t.jpg",
+     "kind": "img",
+     "w": 1253,
+     "h": 1500
+    }
+   ],
+   "mediaCount": 9
+  },
+  {
+   "num": 26,
+   "id": "26",
+   "title": "Area 48 Urban Renewal",
+   "subtitle": "Rehabilitation of a residential district",
+   "category": "Mixed-Use",
+   "location": "Sana'a, Yemen",
+   "year": "2023",
+   "role": "Urban Design & 3D Visualization",
+   "type": "Design",
+   "summary": "An urban-scale rehabilitation and redevelopment study for the residential 'Area 48' district, reorganizing the street grid around a mixed-use core of mid-rise blocks and signature high-rise towers.",
+   "summaryFull": "An urban-scale rehabilitation and redevelopment study for the residential 'Area 48' district, reorganizing the street grid around a mixed-use core of mid-rise blocks and signature high-rise towers. The masterplan threads landscaped pedestrian spines, pergola-shaded plazas, retail frontages and a central mosque through the existing fabric, presented from aerial city views down to street-level eye-level renders. A full analytical layer, aerial-photo overlays, figure-ground studies and zoning diagrams, supports the redevelopment proposal.",
+   "hero": "assets/projects/26/001.jpg",
+   "heroThumb": "assets/projects/26/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/26/001.jpg",
+     "sm": "assets/projects/26/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/002.jpg",
+     "sm": "assets/projects/26/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/003.jpg",
+     "sm": "assets/projects/26/003-t.jpg",
+     "kind": "img",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "lg": "assets/projects/26/004.jpg",
+     "sm": "assets/projects/26/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/005.jpg",
+     "sm": "assets/projects/26/005-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/006.jpg",
+     "sm": "assets/projects/26/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/007.jpg",
+     "sm": "assets/projects/26/007-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 994
+    },
+    {
+     "lg": "assets/projects/26/008.jpg",
+     "sm": "assets/projects/26/008-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/009.jpg",
+     "sm": "assets/projects/26/009-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/010.jpg",
+     "sm": "assets/projects/26/010-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/011.jpg",
+     "sm": "assets/projects/26/011-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/012.jpg",
+     "sm": "assets/projects/26/012-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/013.jpg",
+     "sm": "assets/projects/26/013-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/014.jpg",
+     "sm": "assets/projects/26/014-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/015.jpg",
+     "sm": "assets/projects/26/015-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/016.jpg",
+     "sm": "assets/projects/26/016-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/017.jpg",
+     "sm": "assets/projects/26/017-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1125
+    },
+    {
+     "lg": "assets/projects/26/018.jpg",
+     "sm": "assets/projects/26/018-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/019.jpg",
+     "sm": "assets/projects/26/019-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/020.jpg",
+     "sm": "assets/projects/26/020-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 844
+    },
+    {
+     "lg": "assets/projects/26/021.jpg",
+     "sm": "assets/projects/26/021-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/022.jpg",
+     "sm": "assets/projects/26/022-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/023.jpg",
+     "sm": "assets/projects/26/023-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/024.jpg",
+     "sm": "assets/projects/26/024-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/025.jpg",
+     "sm": "assets/projects/26/025-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/026.jpg",
+     "sm": "assets/projects/26/026-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/027.jpg",
+     "sm": "assets/projects/26/027-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/028.jpg",
+     "sm": "assets/projects/26/028-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/029.jpg",
+     "sm": "assets/projects/26/029-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/030.jpg",
+     "sm": "assets/projects/26/030-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/031.jpg",
+     "sm": "assets/projects/26/031-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/032.jpg",
+     "sm": "assets/projects/26/032-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/033.jpg",
+     "sm": "assets/projects/26/033-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/034.jpg",
+     "sm": "assets/projects/26/034-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/035.jpg",
+     "sm": "assets/projects/26/035-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/036.jpg",
+     "sm": "assets/projects/26/036-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/037.jpg",
+     "sm": "assets/projects/26/037-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/038.jpg",
+     "sm": "assets/projects/26/038-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/039.jpg",
+     "sm": "assets/projects/26/039-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/040.jpg",
+     "sm": "assets/projects/26/040-t.jpg",
+     "kind": "img",
+     "w": 1141,
+     "h": 1500
+    },
+    {
+     "lg": "assets/projects/26/041.jpg",
+     "sm": "assets/projects/26/041-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/042.jpg",
+     "sm": "assets/projects/26/042-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/043.jpg",
+     "sm": "assets/projects/26/043-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/26/044.jpg",
+     "sm": "assets/projects/26/044-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/045.jpg",
+     "sm": "assets/projects/26/045-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/26/046.jpg",
+     "sm": "assets/projects/26/046-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 1",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/047.jpg",
+     "sm": "assets/projects/26/047-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 2",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/048.jpg",
+     "sm": "assets/projects/26/048-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 3",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/049.jpg",
+     "sm": "assets/projects/26/049-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 4",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/050.jpg",
+     "sm": "assets/projects/26/050-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 5",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/051.jpg",
+     "sm": "assets/projects/26/051-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 6",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/052.jpg",
+     "sm": "assets/projects/26/052-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 7",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/053.jpg",
+     "sm": "assets/projects/26/053-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 8",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/054.jpg",
+     "sm": "assets/projects/26/054-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 9",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/055.jpg",
+     "sm": "assets/projects/26/055-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 10",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/056.jpg",
+     "sm": "assets/projects/26/056-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 11",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/057.jpg",
+     "sm": "assets/projects/26/057-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 12",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/058.jpg",
+     "sm": "assets/projects/26/058-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 13",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/059.jpg",
+     "sm": "assets/projects/26/059-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 14",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/060.jpg",
+     "sm": "assets/projects/26/060-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 15",
+     "w": 1500,
+     "h": 1038
+    },
+    {
+     "lg": "assets/projects/26/061.jpg",
+     "sm": "assets/projects/26/061-t.jpg",
+     "kind": "plan",
+     "caption": "Urban-design presentation document — sheet 16",
+     "w": 1500,
+     "h": 1038
+    }
+   ],
+   "mediaCount": 61
+  },
+  {
+   "num": 27,
+   "id": "27",
+   "title": "Hodeidah International Airport",
+   "subtitle": "Conceptual terminal design",
+   "category": "Infrastructure",
+   "location": "Hodeidah, Yemen",
+   "year": "2022",
+   "role": "Architectural Design & 3D Visualization",
+   "type": "Design",
+   "summary": "A large-scale conceptual design for Hodeidah International Airport built on a 'gathering and launching' philosophy: a single point that branches into three flowing arms serving tourist, business and local travelers.",
+   "summaryFull": "A large-scale conceptual design for Hodeidah International Airport built on a 'gathering and launching' philosophy: a single point that branches into three flowing arms serving tourist, business and local travelers. The terminal reads as an organic, biomorphic structure, its sweeping golden roof spines fanning outward over the apron like a tree branching from a trunk, fully integrated with the radial taxiway and parking geometry of the site plan. The design is developed from concept narrative and structural studies through multi-level floor plans, long-span sections, elevations and dramatic aerial and dusk renders. As a showpiece urban-scale infrastructure project it demonstrates command of complex geometry, large-span structure and airport functional zoning.",
+   "hero": "assets/projects/27/001.jpg",
+   "heroThumb": "assets/projects/27/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/27/001.jpg",
+     "sm": "assets/projects/27/001-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/002.jpg",
+     "sm": "assets/projects/27/002-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/003.jpg",
+     "sm": "assets/projects/27/003-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/004.jpg",
+     "sm": "assets/projects/27/004-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/005.jpg",
+     "sm": "assets/projects/27/005-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/006.jpg",
+     "sm": "assets/projects/27/006-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/007.jpg",
+     "sm": "assets/projects/27/007-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/008.jpg",
+     "sm": "assets/projects/27/008-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/009.jpg",
+     "sm": "assets/projects/27/009-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/010.jpg",
+     "sm": "assets/projects/27/010-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/011.jpg",
+     "sm": "assets/projects/27/011-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/012.jpg",
+     "sm": "assets/projects/27/012-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/013.jpg",
+     "sm": "assets/projects/27/013-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/014.jpg",
+     "sm": "assets/projects/27/014-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/015.jpg",
+     "sm": "assets/projects/27/015-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/016.jpg",
+     "sm": "assets/projects/27/016-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/017.jpg",
+     "sm": "assets/projects/27/017-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/018.jpg",
+     "sm": "assets/projects/27/018-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/019.jpg",
+     "sm": "assets/projects/27/019-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/020.jpg",
+     "sm": "assets/projects/27/020-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/021.jpg",
+     "sm": "assets/projects/27/021-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/022.jpg",
+     "sm": "assets/projects/27/022-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/023.jpg",
+     "sm": "assets/projects/27/023-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/024.jpg",
+     "sm": "assets/projects/27/024-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/025.jpg",
+     "sm": "assets/projects/27/025-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/026.jpg",
+     "sm": "assets/projects/27/026-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/027.jpg",
+     "sm": "assets/projects/27/027-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    },
+    {
+     "lg": "assets/projects/27/028.jpg",
+     "sm": "assets/projects/27/028-t.jpg",
+     "kind": "img",
+     "w": 1500,
+     "h": 1061
+    }
+   ],
+   "mediaCount": 28
+  },
+  {
+   "num": 28,
+   "id": "28",
+   "title": "Arab Cultural Center",
+   "subtitle": "Conceptual cultural complex, Sana'a",
+   "category": "Cultural",
+   "location": "Sana'a, Yemen",
+   "year": "2022",
+   "role": "Architectural Design & Working Drawings",
+   "type": "Design",
+   "summary": "A conceptual design for the Arab Cultural Center in Sana'a organized around a powerful octagonal-within-diamond geometry that places a tiered auditorium at the heart of the complex.",
+   "summaryFull": "A conceptual design for the Arab Cultural Center in Sana'a organized around a powerful octagonal-within-diamond geometry that places a tiered auditorium at the heart of the complex. The radial plan fans seating and circulation outward from the central hall, framed by an Islamic-inflected facade of arched openings and ordered detailing. The academic execution set carries the scheme to construction depth, ground-floor and roof plans, sections, elevations, the general site plan, and dedicated acoustic and electrical layouts, supported by extensive door, window and connection detail sheets. As a showpiece civic project it balances strong formal symmetry with a fully documented technical package.",
+   "hero": "assets/projects/28/001.jpg",
+   "heroThumb": "assets/projects/28/001-t.jpg",
+   "media": [
+    {
+     "lg": "assets/projects/28/001.jpg",
+     "sm": "assets/projects/28/001-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan (colored)",
+     "w": 1500,
+     "h": 1125
+    },
+    {
+     "lg": "assets/projects/28/002.jpg",
+     "sm": "assets/projects/28/002-t.jpg",
+     "kind": "plan",
+     "caption": "Ground floor plan",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/003.jpg",
+     "sm": "assets/projects/28/003-t.jpg",
+     "kind": "plan",
+     "caption": "Roof / ceiling plan",
+     "w": 1500,
+     "h": 1071
+    },
+    {
+     "lg": "assets/projects/28/004.jpg",
+     "sm": "assets/projects/28/004-t.jpg",
+     "kind": "plan",
+     "caption": "Section A",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/005.jpg",
+     "sm": "assets/projects/28/005-t.jpg",
+     "kind": "plan",
+     "caption": "Elevations",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/006.jpg",
+     "sm": "assets/projects/28/006-t.jpg",
+     "kind": "plan",
+     "caption": "Site plan 1",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/007.jpg",
+     "sm": "assets/projects/28/007-t.jpg",
+     "kind": "plan",
+     "caption": "Site plan 2",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/008.jpg",
+     "sm": "assets/projects/28/008-t.jpg",
+     "kind": "plan",
+     "caption": "Acoustic layout",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/009.jpg",
+     "sm": "assets/projects/28/009-t.jpg",
+     "kind": "plan",
+     "caption": "Electrical layout",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/010.jpg",
+     "sm": "assets/projects/28/010-t.jpg",
+     "kind": "plan",
+     "caption": "Details 1",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/011.jpg",
+     "sm": "assets/projects/28/011-t.jpg",
+     "kind": "plan",
+     "caption": "Details 2",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/012.jpg",
+     "sm": "assets/projects/28/012-t.jpg",
+     "kind": "plan",
+     "caption": "Details",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/013.jpg",
+     "sm": "assets/projects/28/013-t.jpg",
+     "kind": "plan",
+     "caption": "Details",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/014.jpg",
+     "sm": "assets/projects/28/014-t.jpg",
+     "kind": "plan",
+     "caption": "Details",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/015.jpg",
+     "sm": "assets/projects/28/015-t.jpg",
+     "kind": "plan",
+     "caption": "Details",
+     "w": 1500,
+     "h": 1050
+    },
+    {
+     "lg": "assets/projects/28/016.jpg",
+     "sm": "assets/projects/28/016-t.jpg",
+     "kind": "plan",
+     "caption": "Title sheet",
+     "w": 1500,
+     "h": 1050
+    }
+   ],
+   "mediaCount": 16
+  }
+ ]
+}
